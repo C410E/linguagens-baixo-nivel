@@ -1,0 +1,26 @@
+.div {
+    margin: 10px 20px 30px 40px;
+    border: 1px solid white;
+    padding: 10px 20px;
+    margin-bottom: 1.5em;
+    line-height: 1.4em;
+}
+
+.imagem {
+    cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+    .div {
+      display: block;
+    }
+
+    .imagem {
+        width: 60vw;
+    }
+
+    .div {
+        margin: 2em 2em;
+    }
+    
+  }
