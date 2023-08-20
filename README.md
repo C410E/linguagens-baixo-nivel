@@ -12,5 +12,5 @@ O react foi escolhido para o desenvolvimento por ser um framework mais moderno
 * npm install
 * cd my-app
 * npm start
-### Previa 
+### Prévia 
 [Linguagens de baixo nível](https://c410e.github.io/linguagens-baixo-nivel/)
