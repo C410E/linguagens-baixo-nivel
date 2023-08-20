@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/linguagens-baixo-nivel/static/css/main.afd9abd5.css",
+    "main.js": "/linguagens-baixo-nivel/static/js/main.37bce51e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/linguagens-baixo-nivel/static/js/787.28cb0dcd.chunk.js",
+    "static/media/assembly.png": "/linguagens-baixo-nivel/static/media/assembly.d8d41865e76c2bf341c0.png",
+    "index.html": "/linguagens-baixo-nivel/index.html",
+    "main.afd9abd5.css.map": "/linguagens-baixo-nivel/static/css/main.afd9abd5.css.map",
+    "main.37bce51e.js.map": "/linguagens-baixo-nivel/static/js/main.37bce51e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/linguagens-baixo-nivel/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afd9abd5.css",
+    "static/js/main.37bce51e.js"
+  ]
+}
