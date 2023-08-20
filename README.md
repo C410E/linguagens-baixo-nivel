@@ -1,7 +1,7 @@
 # linguagens-baixo-nivel
 > Status: Developing ⚠️
 > 
-### Essa pequena pagina tem o intuito de explicar o que são linguagen de baixo nível, nada muito complexo, na verdade esse projeto ainda está em desinvolvimentofuturamente teram mais informações, no momento tudo que tem no site foi feito para testar o deploy do github.
+### Essa pequena página tem o intuito de explicar o que são linguagen de baixo nível, nada muito complexo, na verdade esse projeto ainda está em desinvolvimento futuramente teram mais informações, no momento tudo que tem no site foi feito para testar o deploy do github.
 
 ## Tecnologia utilizada
 O react foi escolhido para o desenvolvimento por ser um framework mais moderno
