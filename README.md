@@ -1,4 +1,4 @@
-# linguagens-baixo-nivel
+# linguagens-baixo-nível
 > Status: Developing ⚠️
 > 
 ### Essa pequena página tem o intuito de explicar o que são linguagen de baixo nível, nada muito complexo, na verdade esse projeto ainda está em desinvolvimento futuramente terão mais informações, no momento tudo que tem no site foi feito para testar o deploy do github.
