@@ -14,3 +14,6 @@ O react foi escolhido para o desenvolvimento por ser um framework mais moderno
 * npm start
 ### Prévia 
 [Linguagens de baixo nível](https://c410e.github.io/linguagens-baixo-nivel/)
+
+##Imagem de demontração 
+![WhatsApp Image 2023-08-23 at 18 28 26](https://github.com/C410E/linguagens-baixo-nivel/assets/120989325/a6907cb7-cd90-429b-99ed-cdc34d599ddd)
